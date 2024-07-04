@@ -1,14 +1,61 @@
-<a href="#">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=veniplex&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=cobalt&hide_title=true#gh-dark-mode-only" />
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=veniplex&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_latte&hide_title=true#gh-light-mode-only" />
-</a>
+<!-- GitHub stats -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=veniplex&show_icons=true&theme=catppuccin_mocha&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+    height=170
+    width=500
+    align="center"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=veniplex&show_icons=true&theme=catppuccin_latte&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    height=170
+    width=500
+    align="center"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=veniplex&show_icons=true&theme=catppuccin_mocha&hide_title=true" height=170 width=500 align="center" />
+</picture>
 
-<a href="#">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veniplex&layout=compact&langs_count=8&card_width=400&theme=cobalt#gh-dark-mode-only" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veniplex&layout=compact&langs_count=8&card_width=400&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
+<!-- GitHub languages -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=veniplex&layout=compact&langs_count=4&card_width=400&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+    height=170
+    width=500
+    align="center"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=veniplex&layout=compact&langs_count=4&card_width=400&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    height=170
+    width=500
+    align="center"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veniplex&layout=compact&langs_count=4&card_width=400&theme=catppuccin_mocha" height=170 width=500 align="center" />
+</picture>
 
-<a href="#">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veniplex&repo=couple-quest&show_owner=true&theme=cobalt#gh-dark-mode-only" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=veniplex&repo=couple-quest&show_owner=true&theme=catppuccin_latte#gh-light-mode-only" />
+# 
+</br>
+
+<!-- Repo couple-quest -->
+<a href="https://www.github.com/veniplex/couple-quest/">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=veniplex&repo=couple-quest&show_owner=true&theme=catppuccin_mocha"
+      media="(prefers-color-scheme: dark)"
+      height=170
+      width=500
+      align="center"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=veniplex&repo=couple-quest&show_owner=true&theme=catppuccin_latte"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      height=170
+      width=500
+      align="center"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veniplex&repo=couple-quest&show_owner=true&theme=catppuccin_mocha" height=170 width=500 align="center" />
+  </picture>
 </a>
