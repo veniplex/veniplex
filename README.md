@@ -38,11 +38,12 @@
 </picture>
 </p>
 
-<!-- Sponsor -->
+<!-- Sponsor 
 <p align="center">
   <a href="https://www.buymeacoffee.com/veniplex" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height=60 ></a>
 <a href="https://www.patreon.com/bePatron?u=135604640"><img src="https://github.com/veniplex/veniplex/blob/main/Support-Me-On-Patreon.svg" height=60 /></a>
 </p>
+-->
 
 <!--
 # Repository Couple Quest
