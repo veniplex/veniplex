@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="veniplex — builds open-source web tools">
+  <style>
+    .bg1{stop-color:#fdf2f8}.bg2{stop-color:#eef2ff}
+    .t{fill:#1e1b4b}.s{fill:#4b5563}.dot{fill:#6366f1}
+    @media (prefers-color-scheme: dark){
+      .bg1{stop-color:#1e1b4b}.bg2{stop-color:#0f172a}
+      .t{fill:#f5f3ff}.s{fill:#a5b4fc}.dot{fill:#818cf8}
+    }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" class="bg1"/><stop offset="1" class="bg2"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ec4899"/><stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="18" fill="url(#bg)"/>
+  <g opacity=".5" class="dot">
+    <circle cx="760" cy="50" r="4"/><circle cx="800" cy="90" r="3"/><circle cx="840" cy="60" r="5"/>
+    <circle cx="780" cy="140" r="3"/><circle cx="830" cy="170" r="4"/><circle cx="720" cy="180" r="3"/>
+  </g>
+  <g stroke="url(#ac)" stroke-width="1.5" opacity=".6" fill="none">
+    <path d="M760 50L800 90L840 60M800 90L780 140L830 170M780 140L720 180"/>
+  </g>
+  <text x="56" y="105" class="t" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="56" font-weight="800">veniplex</text>
+  <rect x="58" y="120" width="120" height="5" rx="2.5" fill="url(#ac)"/>
+  <text x="56" y="162" class="s" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22">I like FOSS. I build small, useful web tools.</text>
+</svg>
