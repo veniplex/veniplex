@@ -12,6 +12,8 @@
 
 <br>
 
-<sub><i>Found something useful? A ⭐ on a repo is the best thank-you.</i></sub>
+---
+
+<i>Found something useful? A ⭐ on a repo is the best thank-you.</i>
 
 </div>
