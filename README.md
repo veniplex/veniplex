@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="veniplex: I like FOSS. I build small, useful things for the web." width="100%">
+<img src="assets/banner.svg" alt="veniplex: Likes FOSS and builds things for the web." width="100%">
 
 <a href="https://github.com/veniplex/marvel-cinematic-universe-guide"><img src="assets/mcu.svg" alt="MCU Guide" width="49%"></a>
 <a href="https://github.com/veniplex/ai-explained"><img src="assets/ai.svg" alt="AI Explained" width="49%"></a>
