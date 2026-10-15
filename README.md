@@ -2,41 +2,20 @@
 
 <img src="assets/banner.svg" alt="veniplex — I like FOSS. I build small, useful web tools." width="100%">
 
-**Cybersecurity · Open source**
-
-[![Website](https://img.shields.io/badge/mcu.guide-ec4899?style=for-the-badge&logo=safari&logoColor=white)](https://www.mcu.guide)
-[![X](https://img.shields.io/badge/@veniplexx-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/veniplexx)
-
 </div>
 
 ## 🚀 Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<img src="assets/mcu.svg" alt="" width="48" align="left">
+<a href="https://github.com/veniplex/marvel-cinematic-universe-guide"><img src="assets/mcu.svg" alt="MCU Guide" width="440"></a>
+<a href="https://github.com/veniplex/ai-explained"><img src="assets/ai.svg" alt="AI Explained" width="440"></a>
 
-### [MCU Guide](https://github.com/veniplex/marvel-cinematic-universe-guide)
+<a href="https://github.com/veniplex/marvel-cinematic-universe-guide/stargazers"><img src="https://img.shields.io/github/stars/veniplex/marvel-cinematic-universe-guide?style=flat-square&color=6366f1" alt="MCU Guide stars"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/veniplex/ai-explained/stargazers"><img src="https://img.shields.io/github/stars/veniplex/ai-explained?style=flat-square&color=6366f1" alt="AI Explained stars"></a>
 
-An interactive, chronological timeline of the Marvel Cinematic Universe. Watch in chronological or release order and save your progress.
-
-[![Stars](https://img.shields.io/github/stars/veniplex/marvel-cinematic-universe-guide?style=flat-square&color=6366f1)](https://github.com/veniplex/marvel-cinematic-universe-guide/stargazers) [Live → mcu.guide](https://www.mcu.guide)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="assets/ai.svg" alt="" width="48" align="left">
-
-### [AI Explained](https://github.com/veniplex/ai-explained)
-
-How AI agents work, for people who are new to it and people who build with it.
-
-[![Stars](https://img.shields.io/github/stars/veniplex/ai-explained?style=flat-square&color=6366f1)](https://github.com/veniplex/ai-explained/stargazers) [Read it → ai-explained](https://veniplex.github.io/ai-explained/)
-
-</td>
-</tr>
-</table>
+</div>
 
 ## 📊 Activity
 
